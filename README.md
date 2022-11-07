@@ -1,2 +1,3 @@
 # Advanced-RFID-Lock
-yes
+![alt text](https://github.com/The-EAR-Foundation/Advanced-RFID-Lock/blob/main/door_lock/door%20lock%20wiring.png?raw=true)
+
